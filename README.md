@@ -14,8 +14,11 @@ The project is a web application that allows users to sign up, log in, and view 
 5. Create a Firebase project and configure the firebase.jsx file to respective environment variables.
 6. $ npm run dev
 
+## Deployment
+The application is deployed using vercel and can be accessed at:
+https://cryptotracker-jploxs3og-ruchits-projects-cc481fe4.vercel.app/
 
-## Contact  Details:
+## Contact  Details
 Ruchit Prakash Saxena
 IIT Bhilai
 E-mail: ruchitp@iitbhilai.ac.in
