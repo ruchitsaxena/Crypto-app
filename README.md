@@ -15,9 +15,6 @@ The project is a web application that allows users to sign up, log in, and view 
 6. $ npm run dev
 
 
-## Deployment
-Access the application on Vercel at: 
-
 ## Contact  Details:
 Ruchit Prakash Saxena
 IIT Bhilai
