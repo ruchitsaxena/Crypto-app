@@ -1,4 +1,4 @@
-# My-crypto-app
+# Crypto-app
 
 ## Description
 
@@ -19,6 +19,6 @@ The application is deployed using vercel and can be accessed at:
 https://cryptotracker-jploxs3og-ruchits-projects-cc481fe4.vercel.app/
 
 ## Contact  Details
-Ruchit Prakash Saxena
-IIT Bhilai
+Ruchit Prakash Saxena<br>
+IIT Bhilai<br>
 E-mail: ruchitp@iitbhilai.ac.in
