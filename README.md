@@ -7,7 +7,7 @@ The project is a web application that allows users to sign up, log in, and view 
 
 ## Installation
 
-1. git clone https://github.com/username/repository.git
+1. git clone https://github.com/ruchitsaxena/Crypto-app.git
 2. cd repository
 3. $ npm install
 4. Set up Firebase account
