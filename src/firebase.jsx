@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "",
+  apiKey: "AIzaSyCJdP-Kf7iTuv9qGCBI4-oYZ82n_AGeazA",
   authDomain: "my-crypto-app-28915.firebaseapp.com",
   projectId: "my-crypto-app-28915",
   storageBucket: "my-crypto-app-28915.appspot.com",
